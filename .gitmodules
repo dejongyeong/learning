@@ -1,0 +1,3 @@
+[submodule "ai-coding-crash-course"]
+	path = ai-coding-crash-course
+	url = https://github.com/ai-hero-dev/ai-coding-crash-course
